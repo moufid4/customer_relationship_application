@@ -1,3 +1,5 @@
+require_relative 'rolodex'
+require_relative 'contact'
 # Implement the Runner
 
 # As a user, I am presented with a prompt to 'add', 'modify', 'display all', 'display contact', display attribute', 'delete' and 'exit'.
